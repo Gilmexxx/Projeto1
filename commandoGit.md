@@ -6,10 +6,10 @@
 | git branch -M main | Renomeia o branch principal ( ramificação principal ) de 'master para 'main' |
 | git add | Manda o arquivo para area de stating |
 | git add . | Manda todos os arquivos para a área de staging |
-| git status | Verifica a sitauacao atual dos arquivos  |
-| git config --global user.name <'Nome do usuario'> | Informa o nome do usuario proprietario |
-| git config --global user.email <'email@dousuario.com.br'> | Informa o nome do usuario proprietario |
-| git config --list | Verifica da um status dos dados do usuario - User name e email |
+| git status | `Verifica` a situacao atual dos arquivos  |
+| git config --global user.name <'Nome do usuario'> | Informa o nome do `usuario proprietario` |
+| git config --global user.email <'email@dousuario.com.br'> | Informa o `nome do usuario` proprietario |
+| git config --list | Verifica da um status dos dados do usuario - `User name e email` |
 | git commit -m 'Primei commit' | Faz o commit de atualização |
 | git log | Verifica o historico de commits |
 | git checkout -b + <'NomeDaBranch'> | Cria sub branch do projeto |
