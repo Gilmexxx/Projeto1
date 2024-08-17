@@ -1,0 +1,70 @@
+# titulo 1
+## titulo 2
+### titulo 3
+#### titulo 4
+##### titulo 5
+###### titulo 5
+
+Curso de Python 80 horas pela INOVATECH em parceria com SENAI
+
+**Versao:** 0.1</br>
+**Ano:** 2024</br>
+**Inicio:** 14/08/2024</br>
+**Fim:** 06/09/2024</br>
+
+# Cronograma do projeto lista ordenada
+
+- Iniciando aula 1
+    - Ambientacao
+    - Sala de aula
+    - Mao na maça
+
+# Linkando telas do projeto [ ] ( )
+
+[Aqui acesse a primeira pagina] (http://www.g1.com.br)</br>
+[Aqui acesse a primeira pagina] (http://www.g1.com.br)</br>
+[Aqui acesse a primeira pagina] (http://www.g1.com.br)</br>
+
+# Incluir imagem linkada
+
+[Para ver a imagem. Clique aqui](https://s2-g1.glbimg.com/9u9n7Njcuxx_fhDfflha0WXot6U=/0x0:640x360/1080x608/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/D/tqsZRgT6CB8hrzl1s5sw/12826158-640x360.jpg )
+
+# Incluir texto + link de imagem ao lado
+
+[Para ver a imagem. Clique aqui] (https://s2-g1.glbimg.com/9u9n7Njcuxx_fhDfflha0WXot6U=/0x0:640x360/1080x608/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/D/tqsZRgT6CB8hrzl1s5sw/12826158-640x360.jpg )
+
+# Incluir imagem caminho da pasta
+
+![Imagem dentro de uma pasta do projeto](img/gilmar.jpg)
+
+# ou
+
+![Imagem dentro de uma pasata do projeto](./img/gilmar.jpg)
+
+# Imagem linkada + texto do lado
+
+[Imagem linkada no texto ] [Imagem linkada](./img/gilmar.jpg)
+
+
+# Criando tabela
+
+| QUANTIDADE | ITEM | CODIGO |
+|:-|-:|:-:|
+10  | CALÇA | 0001
+20 | VESTIDO | 0002
+1 | MEIA | 0003
+
+# Criando lista de marcação 
+
+- [x] Marcacao 
+- [x] Marcacao
+
+# Mandando imprimir
+
+``` phyton
+print ('Ola tudo bem')
+```
+
+``` sql
+SELECT * FROM tb_aluno
+````
