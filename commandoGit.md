@@ -19,5 +19,5 @@
 | git branch -d <'NomeDaBranch'> | Deleta a branch -d (minisculo) so possivel com todos os commits |
 | git branch -D <'NomeDaBranch'> | Deleta a branch -D (MAISCULO) deleta a branch mesmo sem terem sido feitos os commits |
 |git remote add origin https://github.com/Gilmexxx/Projeto1.git | Copia a linha la no GitHub e executa este comando no VS code local que no caso é `https://github.com/Gilmexxx/Projeto1.git`|
-|git push -u origin main | Este comando envia todos os commits feitos no ramo `main` do seu repositório local para o repositório remoto chamado `origin` |
+|git push -u origin main | Atualiza o projeto local no GitHub (Origin) (produção) depois de feito todos os commits feitos no ramo `main` do seu repositório local para o repositório remoto chamado `origin` |
 
